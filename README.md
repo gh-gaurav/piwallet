@@ -86,6 +86,3 @@ Submit an issue on GitHub and add as much information as you can about the bug, 
 <div align="center">
 <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license"></a>
 </div>
-
-
-#### Wandering why all the repos are forked from <b>[pvcodes-zz](https://github.com/pvcodes-zz)</b>. Read [here](https://github.com/pvcodes/github-repo-cloner#where-did-the-idea-came-from)
